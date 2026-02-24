@@ -123,13 +123,13 @@ forge coverage --report debug
 │   ├── IFlashLoanReceiver.sol
 │   ├── IPoolFactory.sol
 │   ├── ITSwapPool.sol
-│   #── IThunderLoan.sol
+│   └── IThunderLoan.sol
 ├── protocol
 │   ├── AssetToken.sol
 │   ├── OracleUpgradeable.sol
-│   #── ThunderLoan.sol
-#── upgradedProtocol
-    #── ThunderLoanUpgraded.sol
+│   └── ThunderLoan.sol
+└── upgradedProtocol
+    └── ThunderLoanUpgraded.sol
 ```
 
 ## Compatibilities
